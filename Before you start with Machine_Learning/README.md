@@ -5,6 +5,7 @@
  #### Topics of Content
 
 1. **Numpy, Matplotlib and Random Numbers**
+
          - Why Numpy  and not python + why are we learning plotting with it
          - Generating 1D data in numpy: `array`, `arange, `linspace`
              * `array`, `arange, `linspace` (coding)
@@ -43,6 +44,7 @@
              * hstack two 1D arrays(x, mx+c)
              
 2. **Revising Vectors**
+
          - Why to study vectors
          - Vector Space
              * Scalar vs Vectors
@@ -71,6 +73,7 @@
              * Column Interpretation
 
 3. **Regression Problems**
+
          - Why do we need to study regression -house pricing, etc.,
          - Line Fitting - Problem Definition
          - Using Grid Search to solve the problem 
@@ -82,6 +85,7 @@
              * Quadratic fitting - similar to multiple feature example
 
 4. **Probability Basics**
+
          - Independent Events Probability
          - Maximum Likelihood Estimate for Temperature data via Grid-search
          - Finding best Parameters by grid search.
