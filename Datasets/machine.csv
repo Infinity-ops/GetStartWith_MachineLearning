@@ -1,4 +1,3 @@
-VendorName,ModelName,M_cyc,M_min,M_Max,C_Mem,CH_mi ,Ch_max,Pub_Per,Est_Per
 adviser,32/60,125,256,6000,256,16,128,198,199
 amdahl,470v/7,29,8000,32000,32,8,32,269,253
 amdahl,470v/7a,29,8000,32000,32,8,32,220,253
